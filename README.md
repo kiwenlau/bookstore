@@ -1,2 +1,14 @@
-# bookstore
-Source code for my Tutorial "Test a Node RESTful API with Mocha and Chai"
+## 使用Mocha和Chai测试HTTP API
+
+
+##### 安装NPM模块
+
+```
+sudo npm install
+```
+
+#### 运行测试
+
+```
+npm test
+```
